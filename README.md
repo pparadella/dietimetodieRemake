@@ -1,6 +1,8 @@
-# FirstProject
+# dietimetodieRemake
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
+<p>Hello, this is a remake for <b>www.dietimetodie.com</b>.<p>
+<p>Please, note that we do not want to ingringe any copyrights<br>
+of any sorts, this is only meant for fun, something to feed our souls!</p>
 
 ## Development server
 
