@@ -3,9 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 
+import { CustomComponent } from './custom/custom.component';
+
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    CustomComponent
   ],
   imports: [
     BrowserModule
